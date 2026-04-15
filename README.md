@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Consumer Insights & Analytics | Carlson School of Management</title>
+  <title>Consumer Insights & Analytics | Labovitz School of Business</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet" />
   <style>
     :root {
@@ -240,7 +240,7 @@
       <div class="hero-overlay"></div>
       <div class="hero-content">
         <h1>Consumer Insights <span>& Analytics</span></h1>
-        <p>An experiential learning program at the Carlson School of Management that bridges the gap between consumer research and business strategy.</p>
+        <p>An experiential learning program at the Labovitz School of Business that bridges the gap between consumer research and business strategy.</p>
         <div class="hero-btns">
           <button class="btn-gold" onclick="showTab('apply')">Apply Now</button>
           <button class="btn-outline" onclick="showTab('about')">Learn More</button>
@@ -267,7 +267,7 @@
 
     <footer>
       <div class="footer-grid">
-        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Carlson School of Management<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
+        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Labovitz School of Business<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
         <div class="footer-col"><h4>Quick Links</h4><a onclick="showTab('about')">About the Program</a><a onclick="showTab('exp')">Experience</a><a onclick="showTab('apply')">Apply Now</a><a onclick="showTab('contact')">Contact Us</a></div>
         <div class="footer-col"><h4>Connect</h4><p>Email: cia@umn.edu<br>Phone: (612) 625-0027</p></div>
       </div>
@@ -285,7 +285,7 @@
     <div class="two-col">
       <div>
         <h3>Our Mission</h3>
-        <p>The Consumer Insights & Analytics (CIA) program at the Carlson School of Management is a premier experiential learning opportunity that connects undergraduate students with real-world consumer research challenges.</p>
+        <p>The Consumer Insights & Analytics (CIA) program at the Labovitz School of Business is a premier experiential learning opportunity that connects undergraduate students with real-world consumer research challenges.</p>
         <p>Students work in teams on semester-long projects with corporate partners, applying research methodologies, data analysis, and strategic thinking to deliver actionable insights.</p>
         <p>Since its founding, the program has partnered with industry leaders including General Mills, Target, Best Buy, 3M, Land O'Lakes, and many more. Our alumni network spans top consumer packaged goods companies, consulting firms, and tech organizations.</p>
       </div>
@@ -306,7 +306,7 @@
 
     <footer>
       <div class="footer-grid">
-        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Carlson School of Management<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
+        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Labovitz School of Business<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
         <div class="footer-col"><h4>Quick Links</h4><a onclick="showTab('about')">About the Program</a><a onclick="showTab('exp')">Experience</a><a onclick="showTab('apply')">Apply Now</a><a onclick="showTab('contact')">Contact Us</a></div>
         <div class="footer-col"><h4>Connect</h4><p>Email: cia@umn.edu<br>Phone: (612) 625-0027</p></div>
       </div>
@@ -340,7 +340,7 @@
 
     <footer>
       <div class="footer-grid">
-        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Carlson School of Management<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
+        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Labovitz School of Business<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
         <div class="footer-col"><h4>Quick Links</h4><a onclick="showTab('about')">About the Program</a><a onclick="showTab('exp')">Experience</a><a onclick="showTab('apply')">Apply Now</a><a onclick="showTab('contact')">Contact Us</a></div>
         <div class="footer-col"><h4>Connect</h4><p>Email: cia@umn.edu<br>Phone: (612) 625-0027</p></div>
       </div>
@@ -364,7 +364,7 @@
         <button class="btn-submit">Send Message</button>
       </div>
       <div class="contact-info">
-        <div class="info-item"><div class="info-icon">📍</div><div><h4>Address</h4><p>Carlson School of Management<br>321 19th Ave S<br>Minneapolis, MN 55455</p></div></div>
+        <div class="info-item"><div class="info-icon">📍</div><div><h4>Address</h4><p>Labovitz School of Business<br>321 19th Ave S<br>Minneapolis, MN 55455</p></div></div>
         <div class="info-item"><div class="info-icon">✉️</div><div><h4>Email</h4><p>cia@umn.edu</p></div></div>
         <div class="info-item"><div class="info-icon">📞</div><div><h4>Phone</h4><p>(612) 625-0027</p></div></div>
       </div>
@@ -372,7 +372,7 @@
 
     <footer>
       <div class="footer-grid">
-        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Carlson School of Management<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
+        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Labovitz School of Business<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
         <div class="footer-col"><h4>Quick Links</h4><a onclick="showTab('about')">About the Program</a><a onclick="showTab('exp')">Experience</a><a onclick="showTab('apply')">Apply Now</a><a onclick="showTab('contact')">Contact Us</a></div>
         <div class="footer-col"><h4>Connect</h4><p>Email: cia@umn.edu<br>Phone: (612) 625-0027</p></div>
       </div>
@@ -428,7 +428,7 @@
 
     <footer>
       <div class="footer-grid">
-        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Carlson School of Management<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
+        <div><div class="footer-brand">Consumer Insights & Analytics</div><div class="footer-addr">Labovitz School of Business<br>University of Minnesota<br>321 19th Ave S, Minneapolis, MN 55455</div></div>
         <div class="footer-col"><h4>Quick Links</h4><a onclick="showTab('about')">About the Program</a><a onclick="showTab('exp')">Experience</a><a onclick="showTab('apply')">Apply Now</a><a onclick="showTab('contact')">Contact Us</a></div>
         <div class="footer-col"><h4>Connect</h4><p>Email: cia@umn.edu<br>Phone: (612) 625-0027</p></div>
       </div>
