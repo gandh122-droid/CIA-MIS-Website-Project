@@ -11,7 +11,7 @@
       --maroon: #7b0000;
       --maroon-dark: #5a0000;
       --gold: #f0b90b;
-      --gold-light: #f5cc4a;
+      --gold-light: #f5cc4a:
       --cream: #f5f0e8;
       --white: #ffffff;
       --text-dark: #1a0a0a;
